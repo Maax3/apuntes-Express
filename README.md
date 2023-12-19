@@ -170,7 +170,7 @@ const db = mysql2.createPool({
 
 Puedes probar el funcionamiento de tu api con la extensión ``REST CLIENT`` de VScode. Permite generar un archivo .http o .rest que permite escribir peticiones ``GET``, ``POST``, ``PUT`` etcétera y tenerlas guardadas como si fuera un archivo.txt. Ejemplo:
 
-![](img/apirest.png)
+![](imgREST.png)
 
 # Recursos útiles para aprender EXPRESS
 * [NODE BÁSICO](https://www.youtube.com/watch?v=yB4n_K7dZV8)
